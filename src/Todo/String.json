@@ -1,0 +1,12 @@
+{
+  "header": "Todo List 2023",
+  "_header.comment": "This string is for header",
+  "pivots": {
+    "tasksTab": "Tasks",
+    "taskFormTab": "Task Form",
+    "completedTaskTab": "Completed"
+  },
+  "deleteConfirm": "Are you sure, you want to delete this task?",
+  "addTaskBtn": "Add Task",
+  "updateTaskBtn": "Update Task"
+}
